@@ -11,6 +11,12 @@ This is a practice project that will be built upon
 git clone https://github.com/pbmasigla/joshs-practice-project.git
 ```
 
+##### Create a new branch to make changes on
+```
+git checkout -b [BRANCH-NAME-HERE]
+ex. git checkout -b add-test-page
+```
+
 ##### After you make changes, type this add your changes
 ```
 git add .
